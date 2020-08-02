@@ -1,0 +1,8 @@
+{
+    "lunch": 
+      [
+          {"name": "Cheeseburger","price": "$1.49", "calories": "300 Cal."},
+          {"name": "Hamburger","price": "$1.29", "calories": "250 Cal."},
+          {"name": "Big Mac","price": "$6.49", "calories": "540 Cal."} 
+    ]
+  }
